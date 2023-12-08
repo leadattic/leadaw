@@ -1,0 +1,5 @@
+Copyright (c) 2023 Axel Capuozzo
+Software may be distributed freely, so long as the following are true:
+The software is distributed with the name "leaDAW" 
+The screen that shows up when the program is run is not modified or removed
+The software is available for free, under this license
